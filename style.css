@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    margin: 0px;
+    background: linear-gradient(rgb(255, 163, 178) rgb(229, 195, 82) 50%);
+}
+
+#welcome {
+    background: linear-gradient(rgb(253, 113, 113) 0%, rgb(231, 241, 144) 100%);
+    width: 100%;
+    display: table;
+    padding: 100px 0;
+}
+
+#perfil {
+    display: table-cell;
+    vertical-align: middle;
+    margin: auto;
+}
+
+#ibagemPerfil {
+    width: 10%;
+    border-radius: 50%;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.nome {
+    font-weight: 600;
+    font-size: 44px;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 30px;
+}
+
+#sobre {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.line {
+    width: 800px;
+    height: 10px;
+    background-color: rgb(248, 119, 119);
+    margin: 0 auto 30px;
+}
+
+#imagemlateral {
+    width: 10%;
+    border-radius: 70%;
+    margin-top:- 400%;
+    
+}
+
+.line {
+    list-style-type: none;
+    padding: 0;
+}
